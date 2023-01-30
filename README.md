@@ -14,3 +14,7 @@
 > [Functions Advanced](https://forms.gle/f9UeurcQWkgJ1o8BA)
 
 ---
+
+> [Error Handling](https://forms.gle/3ZrR37XJkWZMyCFP6)
+
+---
