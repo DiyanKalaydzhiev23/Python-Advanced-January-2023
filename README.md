@@ -10,3 +10,7 @@
 > [Multidimensional Lists](https://forms.gle/9eHzAKfgL1yMqXha6)
 
 ---
+
+> [Functions Advanced](https://forms.gle/f9UeurcQWkgJ1o8BA)
+
+---
