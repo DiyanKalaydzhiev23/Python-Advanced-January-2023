@@ -1,0 +1,16 @@
+.css
+- - -index.css
+.html
+- - -index.html
+.js
+- - -index.js
+- - -script.js
+.py
+- - -hello.py
+.ts
+- - -makes_js_harder.ts
+.txt
+- - -example.txt
+- - -file.txt
+- - -output.txt
+- - -text.txt
